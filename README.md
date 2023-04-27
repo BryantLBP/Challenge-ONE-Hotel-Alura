@@ -1,7 +1,9 @@
 # 🏨 Challenge-ONE-Hotel-Alura 🏨
 
-![aH-150px](https://user-images.githubusercontent.com/119342788/234990962-a508008a-5e11-4704-92f3-5aa9af49c584.png)
-
+<p align = center>
+  ![aH-150px](https://user-images.githubusercontent.com/119342788/234991501-6e9b44ee-f4e0-4656-a209-          0150bf901308.png)
+</p>
+  
 Buenos dias/tardes/noches, soy Bryant Baptista, bienvenidos a este nuevo desafio sobre el Hotel Alura, una aplicacion hecha para poder registrarse en dicho hotel, eso nada más iniciando sesión y colocando tus datos para realizar la reservación, todo esto diseñado en el lenguaje de programación Java y siendo la idea de realizar este challenge gracias al programa ONE y a la gente de Oracle/Alura LATAM.
 
 # Tecnologías utilizadas 🖥️:
@@ -61,4 +63,3 @@ Eliminar (con su debido mensaje de verificacion y de confirmacion):
 <img width="500" alt="Screenshot 2023-04-27 140150" src="https://user-images.githubusercontent.com/119342788/234989757-f0680209-4d2d-4f2e-8f18-beb0d3b515bd.png">
 
 <img width="500" alt="Screenshot 2023-04-27 140200" src="https://user-images.githubusercontent.com/119342788/234989770-77332906-19a5-46df-9877-d9c262354a6a.png">
-

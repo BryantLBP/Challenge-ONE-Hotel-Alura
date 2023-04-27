@@ -1,6 +1,6 @@
 # 🏨 Challenge-ONE-Hotel-Alura 🏨
 
-<p align = center>
+<p align = "center">
   ![aH-150px](https://user-images.githubusercontent.com/119342788/234991501-6e9b44ee-f4e0-4656-a209-          0150bf901308.png)
 </p>
   

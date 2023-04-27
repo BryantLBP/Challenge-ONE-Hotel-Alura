@@ -4,11 +4,11 @@ Buenos dias/tardes/noches, soy Bryant Baptista, bienvenidos a este nuevo desafio
 # Tecnologías utilizadas:
 
 <ul>
-  <li>Java</li>
-  <li>Eclipse</li>
-  <li>JCalendar</li>
-  <li>MySQL</li>
-  <li>Plugin WindowBuilder</li>
+  <li>Java ☕️</li>
+  <li>Eclipse 🌘</li>
+  <li>JCalendar 📅</li>
+  <li>MySQL 🐬</li>
+  <li>Plugin WindowBuilder 🗔</li>
 </ul> 
   
 # Explicación del funcionamiento del programa

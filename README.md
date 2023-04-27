@@ -40,3 +40,8 @@ Finalmente, después de colocar todos los datos, nos aparecerá esto en la panta
 <img width="300" alt="Datos guardados" src="https://user-images.githubusercontent.com/119342788/234985840-e01c6d24-a346-4c12-9dc3-23b1c1bd8804.png">
 <hr>
 
+Por otra parte tenemos la pestaña de ¨Búsqueda¨ así como se mencionó antes, en ella se dispondrá de la lista de registros hechos, tanto para las reservas como para los huéspedes, con todas las opciones para editar ya explicadas:
+
+<img width="500" alt="Screenshot 2023-04-27 140023" src="https://user-images.githubusercontent.com/119342788/234988494-599d860a-524f-4f59-a3af-bf1c6c8f6d67.png">
+
+<img width="500" alt="Screenshot 2023-04-27 135858" src="https://user-images.githubusercontent.com/119342788/234988295-5c8ef051-f422-47ef-a1b7-4fb2c933bed5.png">

@@ -9,7 +9,7 @@ Buenos dias/tardes/noches, soy Bryant Baptista, bienvenidos a este nuevo desafio
   <li>JCalendar</li>
   <li>MySQL</li>
   <li>Plugin WindowBuilder</li>
-<ul> 
+</ul> 
   
 # Explicación del funcionamiento del programa
 Al iniciar tenemos lo que sería el menú principal, para acceder y hacer el inicio de sesión solo basta con presionar la imagen que se encuentra debajo de la palabra "Login".

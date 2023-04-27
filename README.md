@@ -44,4 +44,18 @@ Por otra parte tenemos la pestaña de ¨Búsqueda¨ así como se mencionó antes
 
 <img width="500" alt="Screenshot 2023-04-27 135858" src="https://user-images.githubusercontent.com/119342788/234989018-39a0c302-c05c-435a-af2d-1d8713fbfc06.png">
 
-<img width="500" alt="Screenshot 2023-04-27 135858" src="https://user-images.githubusercontent.com/119342788/234988295-5c8ef051-f422-47ef-a1b7-4fb2c933bed5.png">
+<img width="500" alt="Screenshot 2023-04-27 135912" src="https://user-images.githubusercontent.com/119342788/234989151-c745a558-e2da-4ee8-b9fe-941a239c6c6f.png">
+<hr>
+
+Ejemplos:
+
+Buscar/filtrar
+
+<img width="500" alt="Screenshot 2023-04-27 140023" src="https://user-images.githubusercontent.com/119342788/234989300-2ba1f5e6-e6eb-438e-a879-48368d5b3f46.png">
+
+Eliminar (con su debido mensaje de verificacion y de confirmacion):
+
+<img width="500" alt="Screenshot 2023-04-27 140150" src="https://user-images.githubusercontent.com/119342788/234989757-f0680209-4d2d-4f2e-8f18-beb0d3b515bd.png">
+
+<img width="500" alt="Screenshot 2023-04-27 140200" src="https://user-images.githubusercontent.com/119342788/234989770-77332906-19a5-46df-9877-d9c262354a6a.png">
+
